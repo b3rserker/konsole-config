@@ -1,4 +1,5 @@
 keyboard "Berserkers"
+key Space+Shift : "\E[Y"
 key Esc : "\E"
 key Tab-Shift : "\t"
 key Tab+Shift+Ansi : "\E[Z"
