@@ -58,7 +58,6 @@
   <Action shortcut="" name="detach-view"/>
   <Action shortcut="" name="expand-active-view"/>
   <Action shortcut="" name="help_contents"/>
-  <Action shortcut="" name="help_whats_this"/>
   <Action shortcut="" name="move-view-left"/>
   <Action shortcut="" name="move-view-right"/>
   <Action shortcut="" name="new-window"/>
@@ -68,10 +67,10 @@
   <Action shortcut="" name="shrink-active-view"/>
   <Action shortcut="" name="split-view-left-right"/>
   <Action shortcut="" name="split-view-top-bottom"/>
-  <Action shortcut="Ctrl+Shift+N" name="options_configure_keybinding"/>
-  <Action shortcut="Alt++; Alt+1" name="switch-to-tab-0"/>
-  <Action shortcut="Alt+Ě; Alt+2" name="switch-to-tab-1"/>
-  <Action shortcut="Alt+Š; Alt+3" name="switch-to-tab-2"/>
-  <Action shortcut="Alt+Č; Alt+4" name="switch-to-tab-3"/>
+  <Action shortcut="Ctrl+Alt+Shift+N" name="options_configure_keybinding"/>
+  <Action shortcut="Alt++, Alt++; Alt+!, Alt+!" name="switch-to-tab-0"/>
+  <Action shortcut="Alt+Ě, Alt+Ě; Alt+@, Alt+@" name="switch-to-tab-1"/>
+  <Action shortcut="Alt+Š, Alt+Š; Alt+#, Alt+#" name="switch-to-tab-2"/>
+  <Action shortcut="Alt+Č, Alt+Č; Alt+$, Alt+$" name="switch-to-tab-3"/>
  </ActionProperties>
 </kpartgui>

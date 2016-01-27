@@ -9,4 +9,4 @@ Parent=/home/berserker/.kde4/share/apps/konsole/Shell.profile
 KeyBindings=berserker
 
 [Terminal Features]
-BlinkingCursorEnabled=0
+BlinkingCursorEnabled=1
