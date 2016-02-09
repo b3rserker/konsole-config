@@ -1,4 +1,4 @@
-keyboard "Berserkers"
+keyboard "Berserkers_keytab"
 key  : ""
 key Space+Shift : "\E[Y"
 key Esc : "\E"
