@@ -8,12 +8,20 @@ export KENV=~/.kde/share/apps/konsole/
 export KENV=~/.kde4/share/apps/konsole/
 
 # Quick access
-# !!! rm -rf $KENV
+!!! rm -rf $KENV
+
 mkdir $KENV
+
 ln -s $KENV ~/.konsole-config
+
 cd ~/.konsole-config
+
 git init
+
 git remote add origin https://github.com/b3rserker/konsole-config
+
 git config branch.master.remote origin
+
 git config branch.master.merge refs/heads/master
+
 git pull
